@@ -7,5 +7,7 @@ public abstract class Conteudo {
     private String titulo;
     private String descricao;
 
+    //teste
+
     public abstract double calcularXp();
 }
